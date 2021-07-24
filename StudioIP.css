@@ -60,3 +60,32 @@
 .continue4{
     padding-left: 300px;
 }
+.servicebg{
+    background-image: url(file:///home/kk/Downloads/IPimages/s_image.jpg);
+    background-size: cover;
+    height: 300px;
+    color: white;
+    
+
+}
+.header{
+    font-family: 'Lato', sans-serif;
+    padding-left: 600px;
+    padding-top: 30px;
+    font-size: 30px;
+
+}
+.T1{
+    padding-left: 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+.T2{
+    padding-left: 350px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 10px;
+}
+.T3{
+    padding-left: 300px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
