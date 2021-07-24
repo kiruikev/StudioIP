@@ -1,5 +1,36 @@
 body{
-    background-image: url(file:///home/kk/Downloads/IPimages/background.jpg);
+    background-image: url(file:///home/kk/Downloads/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-size: 100% 100%;
+}
+.icon{
+    padding-left: 490px;
+    padding-top: 180px;
+    padding-bottom: 0px
+    
+}
+.words{
+    font-family: 'Lato', sans-serif;
+    padding-left: 460px;
+    padding-top: 90px;
+    font-size:40px;
+    color: white;
+}
+.text-below{
+    padding-left: 350px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif
+}
+.mouse-click{
+    padding-top: 150px;
+    padding-left: 550px;
+}
+.words-continue{
+    font-family: 'Lato', sans-serif;
+    padding-left: 400px;
+    padding-top: 20px;
+    font-size:40px;
+    color: white;
+    
 }
