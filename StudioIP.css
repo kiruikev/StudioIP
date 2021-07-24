@@ -1,24 +1,24 @@
-body{
+.bg{
     background-image: url(file:///home/kk/Downloads/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-size: 100% 100%;
 }
 .icon{
-    padding-left: 490px;
+    padding-left: 550px;
     padding-top: 180px;
     padding-bottom: 0px
     
 }
 .words{
     font-family: 'Lato', sans-serif;
-    padding-left: 460px;
+    padding-left: 510px;
     padding-top: 90px;
     font-size:40px;
     color: white;
 }
 .text-below{
-    padding-left: 350px;
+    padding-left: 370px;
     color: white;
     font-family:Arial, Helvetica, sans-serif
 }
@@ -28,9 +28,35 @@ body{
 }
 .words-continue{
     font-family: 'Lato', sans-serif;
-    padding-left: 400px;
+    padding-left: 420px;
     padding-top: 20px;
     font-size:40px;
     color: white;
     
+}
+.About-Us{
+    font-family: 'Lato', sans-serif;
+    font-size: 30px;
+    padding-left: 600px;
+    padding-top: 30px;
+}
+.details{
+    font-family: 'Lato', sans-serif;
+    padding-left: 200px;
+}
+.continue1, .continue2, .continue3, .continue4{
+    padding-top: 100px;
+}
+.continue1{
+    padding-left: 420px;
+    padding-top: 100px;
+}
+.continue2{
+    padding-left: 100px;
+}
+.continue3{
+    padding-left: 50px;
+}
+.continue4{
+    padding-left: 300px;
 }
