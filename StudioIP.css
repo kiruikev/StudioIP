@@ -86,7 +86,66 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 10px;
 }
+
 .T3{
     padding-left: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.head{
+    padding-left: 550px;
+    padding-top: 30px;
+    font-size: 30px;
+}
+.first{
+    padding-left: 150px;
+}
+.lp{
+    padding-left: 150px;
+}
+.ll{
+    padding-left: 3px;
+}
+.tittle{
+    padding-left: 600px;
+    font-size: 40px;
+}
+.pp{
+    border: 60px;
+    border-color: black;
+}
+.comps{
+    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg);
+    background-size: 100%;
+    padding-bottom: 600px;
+    background-repeat: no-repeat;
+}
+.Tt{
+    padding-left: 550px;
+    padding-top: 120px;
+    color: White;
+    font-size: 40px;
+}
+.name{
+    padding-left: 300px;
+    
+}
+.Name{
+    size: 20px;
+}
+.inputs{
+    padding-left: 400px;
+}
+.email{
+    padding-left: 500px;
+    padding-top: 0px;
+}
+.message{
+    padding-left: 250px;
+    padding-top: 90px;
+    height: 590px;
+    width: 69px;
+}
+.submit{
+    padding-top: 50px;
+    padding-left: 80px;
 }
