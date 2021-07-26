@@ -1,8 +1,8 @@
 .bg{
-    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/h_img.jpg);
+    background-image: url(file:///home/kk/Downloads/background.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
-    background-size: 100% 100%;
+    
+    background-size: 1500px 900px;
 }
 .icon{
     padding-left: 550px;
@@ -61,10 +61,9 @@
     padding-left: 300px;
 }
 .servicebg{
-    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg);
-    background-size: cover;
+    background-image: url(file:///home/kk/Downloads/IPimages/s_image.jpg);
+    background-size: 1500px 900px;
     background-repeat: no-repeat;
-    height: 300px;
     color: white;
     
 
@@ -86,7 +85,6 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding-top: 10px;
 }
-
 .T3{
     padding-left: 300px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -100,7 +98,8 @@
     padding-left: 150px;
 }
 .lp{
-    padding-left: 150px;
+    padding-left: 158px;
+    cursor: pointer;
 }
 .ll{
     padding-left: 3px;
@@ -108,13 +107,14 @@
 .tittle{
     padding-left: 600px;
     font-size: 40px;
+    display: none;
 }
 .pp{
     border: 60px;
     border-color: black;
 }
 .comps{
-    background-image: url(https://raw.githubusercontent.com/jonnygovish/IP3/master/assets/backgrounds/c_image.jpg);
+    background-image: url(file:///home/kk/Downloads/IPimages/c_image.jpg);
     background-size: 100%;
     padding-bottom: 600px;
     background-repeat: no-repeat;
@@ -148,4 +148,24 @@
 .submit{
     padding-top: 50px;
     padding-left: 80px;
+}
+.Work{
+    display: none;
+}
+.draw{
+    padding-left: 20px;
+}
+.dev{
+    cursor:pointer;
+}
+.devwr{
+    display: none;
+    cursor: pointer;
+}
+.product{
+    
+    cursor: pointer;
+}
+.Dt{
+    display: none;
 }
